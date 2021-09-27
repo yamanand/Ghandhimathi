@@ -1,2 +1,0 @@
-# Ghandhimathi
-Multiple linear regression
